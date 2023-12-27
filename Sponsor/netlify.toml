@@ -1,0 +1,5 @@
+[[redirects]]
+
+from = "/*"
+to = "/Sponsor.html"
+status = 200
